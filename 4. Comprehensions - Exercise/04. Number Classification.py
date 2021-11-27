@@ -1,0 +1,2 @@
+numbers = [int(num) for num in input().split(", ")]
+[print(f'{key}: {", ".join([str(x) for x in value])}') for dictionary in [{'Positive': [x for x in numbers if x >= 0]}, {'Negative': [x for x in numbers if x < 0]}, {'Even': [x for x in numbers if x % 2 == 0]}, {'Odd': [x for x in numbers if x % 2 == 1]}] for key, value in dictionary.items()]
