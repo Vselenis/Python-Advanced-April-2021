@@ -1,0 +1,28 @@
+Introducing Autoscaling in AWS Glue jobs (Preview) 
+
+
+
+ Posted On:  Jan 3, 2022 
+
+
+Autoscaling in AWS Glue jobs is now available in preview. AWS Glue 3.0 can now dynamically scale resources up and down based on the workload, for both batch and streaming jobs. With autoscaling, you no longer need to worry about over-provisioning resources for jobs, spend time optimizing the number of workers, or pay for idle workers.
+
+
+
+
+AWS Glue is a serverless data integration service that allows you to schedule and run data integration and extract, transform, and load (ETL) jobs without managing any computing infrastructure. AWS Glue monitors each stage of the job run and turns workers off when they are idle or adds workers if additional parallel processing is possible. For Streaming ETL jobs, AWS Glue monitors the source data stream and continually adds and removes workers based on the amount of activity in the stream.
+
+
+
+
+This feature is available in the US East (Ohio) AWS Region.
+
+
+
+
+To learn more, visit our documentation, and send us feedback at glue-auto-scaling-preview@amazon.com.
+
+
+
+
+ »

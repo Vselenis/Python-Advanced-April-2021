@@ -1,0 +1,28 @@
+Announcing AWS Data Exchange for Amazon Redshift 
+
+
+
+ Posted On:  Jan 5, 2022 
+
+
+We are announcing the general availability of AWS Data Exchange for Amazon Redshift, a new feature that enables customers to find and subscribe to third-party data in AWS Data Exchange that they can query in an Amazon Redshift data warehouse in minutes. Data providers can list and offer products containing Amazon Redshift data sets in the AWS Data Exchange catalog, granting subscribers direct, read-only access to the data stored in Amazon Redshift. This feature empowers customers to quickly query, analyze, and build applications with these third-party data sets. 
+
+
+
+
+With AWS Data Exchange for Amazon Redshift, customers can start querying, evaluating, analyzing, and joining third-party data with their own first-party data, no extracting, transforming, and loading (ETL) required. Since customers are directly querying a provider’s stored data, they can be certain they are using the latest data being offered. Additionally, entitlement, billing, and payment management are automated: access to Amazon Redshift data is granted when a data subscription starts and removed when it ends, invoices are automatically generated, and payments are automatically collected and disbursed through AWS Marketplace. 
+
+
+
+
+AWS Data Exchange for Amazon Redshift is available in all regions where AWS Data Exchange and Amazon Redshift RA3 instances are available including: US East (N. Virginia), US East (Ohio), US West (Northern California), US West (Oregon), Asia Pacific (Seoul), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), Europe (Ireland), and Europe (London). 
+
+
+
+
+To explore available Amazon Redshift data products see the AWS Data Exchange data catalog. If you’re a registered data provider you can learn more about licensing data in Amazon Redshift. If you’re not already a registered data provider you can see our documentation on how to become a data provider. 
+
+
+
+
+ »

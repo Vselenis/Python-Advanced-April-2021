@@ -1,0 +1,28 @@
+Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions 
+
+
+
+ Posted On:  Jan 4, 2022 
+
+
+Today, Amazon Elastic Container Service (Amazon ECS) launched new clusters and task definitions creation workflows in the new management console. Customers can now use the new simplified workflows that provide flexible defaults and allow for configuration of observability features for container applications.
+
+
+
+
+The new console experience allows for easy creation of new auto scaling groups that are designed to launch Amazon EC2 instances and register them to new Amazon ECS clusters automatically. The new task definitions creation experience removes the complexity of configuring container applications by providing flexible defaults and auto creating required task execution roles. You can now configure tasks to run different operating system/architecture (AWS Graviton, Windows, Linux) on both Amazon EC2 and AWS Fargate. This new task definition creation experience provides an option to enable metrics and traces collection, and allows users to export to X-Ray, Amazon CloudWatch and Amazon Managed Service for Prometheus. 
+
+
+
+
+This new experience is available on the Amazon ECS console. Customers can switch to the classic console experience for any unsupported features in the new console.
+
+
+
+
+To get started, review Amazon ECS documentation for creating a new cluster, creating a new task definition, and switching to the new Amazon ECS console.
+
+
+
+
+ »
